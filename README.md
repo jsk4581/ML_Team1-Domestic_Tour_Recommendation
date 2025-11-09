@@ -2,7 +2,8 @@
 ## Quickstart
 ```bash
 git clone https://github.com/jsk4581/ML_Team1-Domestic_Tour_Recommendation.git
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
 
 # DomeTour - Tourism Recommendation 
 
