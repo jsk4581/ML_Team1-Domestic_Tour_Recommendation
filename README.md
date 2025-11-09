@@ -1,3 +1,9 @@
+
+## Quickstart
+```bash
+git clone https://github.com/jsk4581/ML_Team1-Domestic_Tour_Recommendation.git
+pip install -r requirements.txt
+
 # DomeTour - Tourism Recommendation 
 
 This repository contains a small but complete toolkit for **tourist behavior analysis** and **recommendation** based on:
